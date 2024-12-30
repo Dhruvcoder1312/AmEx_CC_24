@@ -1,10 +1,15 @@
 # AmEx_CC_24
 Amex Dataset Analysis
+
 Overview
+
 This project delves into analyzing the Amex dataset to predict customer defaults based on various financial and risk-related factors. The dataset encompasses key metrics such as credit scores, income levels, credit limits, and customer acquisition details, along with an indicator of whether a customer defaulted or not. The goal is to extract actionable insights and identify patterns that can improve default prediction models, aiding in better financial risk management.
 
 Dataset Description
-The dataset consists of 61 columns and 62,484 rows, offering a comprehensive look at customer profiles and their financial behaviors. Below are the key fields included in the dataset:
+
+The dataset consists of 61 columns and 62,484 rows, offering a comprehensive look at customer profiles and their financial behaviors.
+
+Below are the key fields included in the dataset:
 
 unique_identifier: A unique ID assigned to each customer record.
 appl_month: The month when the application was submitted.
